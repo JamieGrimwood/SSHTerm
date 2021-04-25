@@ -1,0 +1,19 @@
+{
+  "name": "sshterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamieGrimwood/SSHTerm.git"
+  },
+  "author": "Jamie_#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamieGrimwood/SSHTerm/issues"
+  },
+  "homepage": "https://github.com/JamieGrimwood/SSHTerm#readme"
+}
